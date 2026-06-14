@@ -16,9 +16,9 @@ const items = [
     link: '#',
   },
   {
-    tag: 'Conference — ICMETET',
-    title: 'Cross-Lingual Information Extraction',
-    detail: 'Presented at the International Conference on Machine Learning, Emerging Technologies & Engineering.',
+    tag: 'Conference — ICMETET 2024',
+    title: 'Securing Access: A Multi-Modal Biometric Door Lock System with Arduino and Two-Factor Authentication',
+    detail: 'Abstract accepted under Track 5: ICT (ID: ICMETET-2024/Abs/027). Co-author — contributed to system design, biometric authentication workflow, and hardware–software integration. ISBM College of Engineering, Pune.',
     year: '2024',
     link: '#',
   },
